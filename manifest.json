@@ -1,0 +1,16 @@
+{
+   "browser_action": {
+      "default_icon": "image/icon.png",
+      "default_popup": "popup.html"
+   },
+   "description": "Access your Google Task easily with Chrome extension.",
+   "icons": {
+      "48": "image/icon48.png",
+      "128": "image/icon128.png"
+   },
+   "name": "Google Task",
+   "permissions": [ "tabs", "http://www.google.com/", "http://mail.google.com/*", "https://mail.google.com/*" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0",
+   "manifest_version": 2
+}
