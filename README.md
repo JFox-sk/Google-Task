@@ -1,4 +1,4 @@
 Google-Task
 ===========
 
-Access your Google Task easily with Chrome extension.
+Access your Google Tasks easily with Chrome extension.
